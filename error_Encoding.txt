@@ -1,0 +1,1 @@
+Change the encoding from utf-8 to Windows-1252
